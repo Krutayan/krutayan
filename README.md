@@ -13,5 +13,5 @@ I am pursuing my B.Tech degree and actively focusing on Data Structures, Algorit
 
 ## Connect with me
 - [LinkedIn](www.linkedin.com/in/krutayan-pandey)
-- [LeetCode](https://leetcode.com)
+- [LeetCode](https://leetcode.com/u/Krutayan/)
 
