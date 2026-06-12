@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Krutayan Pandey 👋
 
-<!--
-**Krutayan/krutayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am pursuing my B.Tech degree and actively focusing on Data Structures, Algorithms, and Software Engineering roles.
 
-Here are some ideas to get you started:
+## What I'm Doing Right Now
+-  Completing Stanford's **CS106A** (Programming Methodology) and **CS106B** (Programming Abstractions) before college starts.
+-  Building strong fundamentals in Java and C++.
+-  Solving Algorithmic puzzles daily on LeetCode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack under development
+- **Languages:** Java, C++
+- **Core Focus:** Data Structures & Algorithms (DSA), Problem Solving
+
+## Connect with me
+- [LinkedIn](www.linkedin.com/in/krutayan-pandey)
+- [LeetCode](https://leetcode.com)
+
