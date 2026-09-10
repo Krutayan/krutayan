@@ -1,6 +1,6 @@
-# Hi, I'm Krutayan Pandey 👋
+# Hi, I'm Krutayan Pandey
 
-I am pursuing my B.Tech degree and actively focusing on Data Structures, Algorithms, and Software Engineering roles.
+I am pursuing my B.Tech in Electronic and Computer Science (ECS) degree and actively focusing on Data Structures, Algorithms, and Software Engineering roles.
 
 ## What I'm Doing Right Now
 -  Completing Stanford's **CS106A** (Programming Methodology) and **CS106B** (Programming Abstractions) before college starts.
