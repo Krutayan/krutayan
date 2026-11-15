@@ -3,9 +3,9 @@
 I am pursuing my B.Tech in Electronic and Computer Science (ECS) degree and actively focusing on Data Structures, Algorithms, and Software Engineering roles.
 
 ## What I'm Doing Right Now
--  Completing Stanford's **CS106A** (Programming Methodology) and **CS106B** (Programming Abstractions) before college starts.
+-  Completing Stanford's **CS106A** (Programming Methodology) and **CS106B** (Programming Abstractions).
 -  Building strong fundamentals in Python and C++.
--  Solving Algorithmic puzzles daily on LeetCode.
+-  Trying to Solve Algorithmic puzzles daily on LeetCode.
 
 ## Tech Stack under development
 - **Languages:** Python, C++
